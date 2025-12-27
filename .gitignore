@@ -1,0 +1,63 @@
+# OS / editor junk
+.DS_Store
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+Icon?
+*.swp
+*.swo
+
+# IDEs
+.vscode/
+.idea/
+
+# Node & JS
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Build / cache
+dist/
+build/
+out/
+coverage/
+.cache/
+.tmp/
+.temp/
+.eslintcache
+*.tsbuildinfo
+
+# Web frameworks
+.next/
+.nuxt/
+.vite/
+.svelte-kit/
+storybook-static/
+
+# Hosting & deploy
+.vercel/
+.netlify/
+
+# Test & tooling
+.jest/
+jest-cache/
+.playwright/
+test-results/
+
+# Env files
+.env
+.env.*
+.env.local
+.env.*.local
+
+# Runtime logs
+logs/
+*.log
+*.pid
+*.pid.lock
+
+# Sass cache
+.sass-cache/
