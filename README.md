@@ -243,3 +243,13 @@ ISC
 - 401 Unauthorized on admin routes: ensure you’ve logged in via `/api/admin/login` and have `adminToken` cookie set.
 - Image upload failing: check Cloudinary credentials and file size (<5MB).
 - AI generation failing: verify `GEMINI_API_KEY` and network access.
+
+### Default Credentials
+
+- Viewer credentials:
+  - email:  
+  - password: 123456789
+
+- Admin credentials:
+  - email: tushar@gmail.com
+  - password: 123456
