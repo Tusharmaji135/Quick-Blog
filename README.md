@@ -247,7 +247,7 @@ ISC
 ### Default Credentials
 
 - Viewer credentials:
-  - email:  
+  - email: user@gmail.com 
   - password: 123456789
 
 - Admin credentials:
